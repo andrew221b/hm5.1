@@ -25,10 +25,6 @@ main {
     min-height: 100px;
 }
 
-aside {
-    display: inline-block;
-}
-
 .right {
     width: 200px;
     float: right;
